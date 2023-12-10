@@ -98,16 +98,11 @@ Standardize the numerical features of the dataset using techniques like z-score 
 
 These cleaning and pre-processing steps are essential to ensure the dataset is free from inconsistencies, duplicates, and irrelevant information. The transformation of categorical variables and standardization of numerical features contribute to creating a dataset suitable for the development of accurate machine learning models for fraud detection.
 
-Visualization: 
-![image](https://github.com/Sagarlimbachiya1993/Fraud-Detection-in-Online-transaction/assets/106364353/88eb0f12-3901-4129-a7ea-795b0cd66586)
+Visualization:
 
 ![image](https://github.com/Sagarlimbachiya1993/Fraud-Detection-in-Online-transaction/assets/106364353/6d6bdeb9-44d7-4d32-ad90-fc1a0f0d5fa1)
 
-
- 
-
 As we can see there is the class imbalance problem in classification of the data, i.e., there are only 8213 0s out of the 108097 rows. so we need to do the oversampling, which will be done further in the process for that we will use SMOT method.
-
 
 About Algorithms:
 Neural network:
