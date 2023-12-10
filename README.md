@@ -101,7 +101,7 @@ These cleaning and pre-processing steps are essential to ensure the dataset is f
 Visualization: 
 ![image](https://github.com/Sagarlimbachiya1993/Fraud-Detection-in-Online-transaction/assets/106364353/88eb0f12-3901-4129-a7ea-795b0cd66586)
 
- ![image](https://github.com/Sagarlimbachiya1993/Fraud-Detection-in-Online-transaction/assets/106364353/81ffc761-4475-4ccc-a5e5-ca3fdd4c1ea9)
+![image](https://github.com/Sagarlimbachiya1993/Fraud-Detection-in-Online-transaction/assets/106364353/6d6bdeb9-44d7-4d32-ad90-fc1a0f0d5fa1)
 
 
  
